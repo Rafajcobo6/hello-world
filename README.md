@@ -4,4 +4,4 @@ Mi nombre es Rafa y soy estudiante de primer año en programación. Estoy muy em
 
 Espero seguir creciendo en este campo y adquirir habilidades que me permitan crear soluciones innovadoras en el futuro.
 
-¡Gracias por su atención!
+¡Gracias por su atención! :)
